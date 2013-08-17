@@ -1,4 +1,4 @@
-# LonelyAssets
+# Grep
 A Movable Type plugin for grep array of template variable.
 
 ## Requirements
