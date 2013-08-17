@@ -1,0 +1,13 @@
+id: Grep
+name: Grep
+key: grep
+version: 0.2
+description: <__trans phrase='_PLUGIN_DESCRIPTION'>
+author_name: okayama
+author_link: http://weeeblog.net/
+l10n_class: Grep::L10N
+tags:
+    block:
+        Grep: $grep::Grep::Tags::_hdlr_grep
+        IfGrep?: $grep::Grep::Tags::_hdlr_if_grep
+        UnlessGrep?: $grep::Grep::Tags::_hdlr_if_grep
